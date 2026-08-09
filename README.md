@@ -1,6 +1,8 @@
 # 🚀 MomentumAI
 
 > **Your Last-Minute AI Productivity Coach**
+> **Build Momentum. Beat Every Deadline.**
+
 
 An AI-powered productivity assistant that helps students and professionals plan their day, recover from missed deadlines, and stay productive using Google Gemini AI.
 
